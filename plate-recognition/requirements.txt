@@ -1,0 +1,7 @@
+ultralytics>=8.0
+torch
+opencv-python
+numpy
+# 可选：只有运行 baseline_paddle.py 时需要
+# paddlepaddle>=3.0
+# paddleocr>=3.0
